@@ -6,8 +6,6 @@
 
 package customermailapplication;
 
-import java.util.Scanner;
-
 /**
  *
  * @author sarun
